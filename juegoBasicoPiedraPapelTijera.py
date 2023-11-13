@@ -41,7 +41,7 @@ def compara(jugador, ordenador):
 # Explicar reglas del juego
 # Inicializo las variables que van a contener los puntos de ambos a 0
 nombre_jugador = input('¿Cual es tu nombre?')
-print('Hola %s. Vamos a jugar a PIEDRA-PAPEL-TIJERAS. A 10 tiradas. El que consigas mas puntos gana.'%nombre_jugador)
+print('Hola %s. Vamos a jugar a PIEDRA-PAPEL-TIJERAS. A 10 tiradas. El que consiga mas puntos gana.'%nombre_jugador)
 puntos_j = 0
 puntos_o = 0
 
